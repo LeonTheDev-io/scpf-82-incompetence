@@ -6,14 +6,15 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Deleted!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Deleted due to incompetence." />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Appearently the url is too untrusted, incase you dont trust what you are on right now,
+          look thru the source code 
         </p>
       </main>
 
