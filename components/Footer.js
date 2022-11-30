@@ -4,12 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        <div className={styles.footerItem}>
-          Made and deleted with <img src="/netliheart.svg" alt="Netlify Logo" className={styles.logo} /> for you
-        </div>
-        <div className={styles.footerItem}>
-          This is open source btw
-        </div>
+          Made and deleted with <img src="/netliheart.svg" alt="Netlify Logo" className={styles.logo} /> for you | <a href="https://github.com/LeonTheDev-io/scpf-82-incompetence">Source Code</a> 
       </footer>
     </>
   )
