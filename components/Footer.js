@@ -11,9 +11,7 @@ export default function Footer() {
           <div className={styles.footerItem}>
         This is open source btw
       </div>
-      <FooterSeparator />
-      <div className={styles.footerItem}>
-          </footer>
+  </footer>
     </>
   )
 }
