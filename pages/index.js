@@ -11,10 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Deleted due to incompetence." />
+        <Header title="Deleted due to <code>foggyzeus#2191</code> incompetence." />
         <p className="description">
-          Appearently the url is too untrusted, incase you dont trust what you are on right now,
-          look thru the source code 
+          Appearently months after I have spent time and money making this site, people decided the URL magically turned untrusted
         </p>
       </main>
 
