@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="Deleted due to incompetence." />
         <p className="description">
           Yeah so apparently all of the sudden, weeks after this was finished, people cried about not trusting the "link" (also called domain but okay)
-          <br>
+          <br />
           Wait, you are on this site? THE UNTRUSTED LINK? HOLY MOLY, wait, you aren't hacked? What a menace
         </p>
       </main>
