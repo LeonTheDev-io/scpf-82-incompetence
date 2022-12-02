@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Deleted due to incompetence." />
+        <Header title="Deleted due to (foggies) incompetence." />
         <p className="description">
           Yeah so apparently all of the sudden, weeks after this was finished, people cried about not trusting the "link" (also called domain but okay)
           <br />
