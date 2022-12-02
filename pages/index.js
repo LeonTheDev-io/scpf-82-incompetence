@@ -11,9 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Deleted due to foggies incompetence." />
+        <Header title="Deleted due to incompetence." />
         <p className="description">
-          Appearently months after I have spent time and money making this site, people decided the URL magically turned untrusted
+          Yeah so apparently all of the sudden, weeks after this was finished, people cried about not trusting the "link" (also called domain but okay)
+          Wait, you are on this site? THE UNTRUSTED LINK? HOLY MOLY, wait, you aren't hacked? What a menace
         </p>
       </main>
 
